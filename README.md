@@ -3,7 +3,7 @@
 ## 2.1 Competidores
 
 
-***EdGames:*** Plataforma web que permite a desarrolladores de videojuegos educativos crear, distribuir y monitorear el rendimiento de sus juegos educativos. Está diseñada para ser utilizada por empresas educativas para fomentar el aprendizaje a través de videojuegos.
+***EdGames:*** Plataforma web que permite a desarrolladores de videojuegos educativos crear, distribuir y monitorear el rendimiento de sus juegos educativos. Está diseñada para ser utilizada tanto por empresas educativas como por desarrolladores de videojuegos, con el objetivo de fomentar el aprendizaje a través de videojuegos interactivos y proporcionar herramientas avanzadas de análisis y retroalimentación.
 
 <img src="./assets/competitor-logo-brilliant.png" alt="Unity-learn" width="200" height="200">
 
@@ -18,36 +18,38 @@
 ***Construct 3:*** Herramienta para crear videojuegos que no requiere programación. Se enfoca en la educación gamificada y el aprendizaje interactivo, ofreciendo una interfaz sencilla para la creación rápida de videojuegos educativos.
 
 ### 2.1.1 Análisis competitivo
-<table border="1" style="text-align: center;">
+<table border="1" style="text-align: center; width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th colspan="6">Análisis Competitivo</th>
+    </tr>
+    <tr>
+      <th colspan="2">¿Por qué llevar a cabo este análisis?</th>
+      <th colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra plataforma EdGames.</th>
+    </tr>
+    <tr>
+      <th colspan="2"></th>
+      <th>EdGames</th>
+      <th>Unity Learn</th>
+      <th>GDevelop</th>
+      <th>Construct 3</th>
+    </tr>
+  </thead>
   <tbody>
-    <tr>
-      <td colspan="6">Análisis Competitivo</td>
-    </tr>
-    <tr>
-      <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="4">Llevar a cabo este análisis nos brindará información crítica que nos permitirá tomar decisiones más informadas y estratégicas para el desarrollo, comercialización y crecimiento de nuestra aplicación.</td>
-    </tr>
-    <tr>
-      <td colspan="2"></td>
-      <td>EdGames</td>
-      <td>Unity Learn</td>
-      <td>GDevelop</td>
-      <td>Construct 3</td>
-    </tr>
     <tr>
       <td rowspan="2">Perfil</td>
       <td>Overview</td>
-      <td>Plataforma web que permite a desarrolladores de videojuegos educativos crear, distribuir y monitorear el rendimiento de sus juegos educativos.</td>
-      <td>Plataforma para desarrolladores de videojuegos, especialmente aquellos que quieren aprender y aplicar técnicas de gamificación en la educación.</td>
-      <td>Plataforma que permite a los desarrolladores crear videojuegos sin necesidad de conocimientos avanzados de programación, ideal para juegos educativos.</td>
-      <td>Herramienta para crear videojuegos que no requiere programación, con enfoque en la educación gamificada y el aprendizaje interactivo.</td>
+      <td>Plataforma web que permite a desarrolladores de videojuegos educativos crear, distribuir y monitorear el rendimiento de sus juegos educativos. Está diseñada para empresas educativas y desarrolladores, con herramientas para análisis de impacto.</td>
+      <td>Plataforma para desarrolladores de videojuegos, especialmente aquellos interesados en aplicar técnicas de gamificación en la educación. Ofrece recursos educativos y soporte comunitario.</td>
+      <td>Plataforma que permite a los desarrolladores crear videojuegos sin necesidad de conocimientos avanzados de programación. Ideal para desarrollos educativos con una interfaz accesible y una comunidad activa.</td>
+      <td>Herramienta para crear videojuegos sin programación, enfocada en la educación gamificada y el aprendizaje interactivo. Ofrece una interfaz intuitiva para la creación rápida de juegos educativos.</td>
     </tr>
     <tr>
       <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
-      <td>Especialización en ofrecer herramientas para desarrolladores de videojuegos educativos.</td>
-      <td>Comunidad establecida y gran cantidad de recursos para desarrolladores.</td>
-      <td>Fácil de usar y accesible para principiantes, amplia comunidad de usuarios.</td>
-      <td>Interface sencilla y accesible, orientada a la creación rápida de videojuegos.</td>
+      <td>Especialización en herramientas para desarrolladores de videojuegos educativos y seguimiento detallado del impacto en el aprendizaje.</td>
+      <td>Comunidad establecida, recursos extensivos y soporte continuo para desarrolladores.</td>
+      <td>Facilidad de uso y accesibilidad para principiantes, con una comunidad activa para soporte.</td>
+      <td>Interfaz sencilla para creación rápida, con enfoque en educación y aprendizaje interactivo.</td>
     </tr>
     <tr>
       <td rowspan="2">Perfil de Marketing</td>
@@ -109,22 +111,22 @@
       <td>Productos &amp; Servicios</td>
       <td>
         <ul>
-          <li>Plataforma web para la creación de videojuegos didácticos.</li>
+          <li>Plataforma web para la creación, distribución y monitoreo de videojuegos educativos.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Plataforma web y móvil de aprendizaje de desarrollo de juegos.</li>
+          <li>Plataforma web y móvil para el aprendizaje en desarrollo de juegos educativos.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Software para creación de videojuegos sin código.</li>
+          <li>Software para la creación de videojuegos sin código.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Plataforma web de desarrollo de videojuegos.</li>
+          <li>Plataforma web para desarrollo de videojuegos.</li>
         </ul>
       </td>
     </tr>
@@ -132,22 +134,22 @@
       <td>Precios &amp; Costos</td>
       <td>
         <ul>
-          <li>Pago con capa gratuita</li>
+          <li>Modelo de suscripción con opción gratuita y niveles de pago.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Pago</li>
+          <li>Suscripción de pago</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Pago</li>
+          <li>Suscripción de pago</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Pago con capa gratuita</li>
+          <li>Modelo de suscripción con opción gratuita y niveles de pago.</li>
         </ul>
       </td>
     </tr>
@@ -181,22 +183,22 @@
       <td>Fortalezas</td>
       <td>
         <ul>
-          <li>Herramientas especializadas para desarrolladores de videojuegos didácticos.</li>
+          <li>Herramientas especializadas para desarrolladores de videojuegos educativos y análisis del impacto en el aprendizaje.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Amplia gama de recursos, comunidad global y soporte continuo para desarrolladores.</li>
+          <li>Amplia gama de recursos, comunidad global y soporte continuo.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Facilidad de uso, accesibilidad sin código, comunidad creciente.</li>
+          <li>Facilidad de uso, accesibilidad sin código, y una comunidad activa.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Creación rápida y sencilla de videojuegos, ideal para proyectos educativos pequeños.</li>
+          <li>Creación rápida y sencilla de videojuegos, ideal para proyectos educativos simples.</li>
         </ul>
       </td>
     </tr>
@@ -204,12 +206,12 @@
       <td>Debilidades</td>
       <td>
         <ul>
-          <li>Novedad en el mercado, falta de reconocimiento.</li>
+          <li>Novedad en el mercado, falta de reconocimiento inicial.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Requiere conocimientos técnicos avanzados para maximizar el uso.</li>
+          <li>Requiere conocimientos técnicos avanzados para aprovechar al máximo sus funcionalidades.</li>
         </ul>
       </td>
       <td>
@@ -227,22 +229,22 @@
       <td>Oportunidades</td>
       <td>
         <ul>
-          <li>Expansión en el mercado hispanohablante, colaboraciones con instituciones educativas.</li>
+          <li>Expansión en mercados hispanohablantes, colaboración con instituciones educativas.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Incorporar más recursos didácticos y orientados a la gamificación del aprendizaje.</li>
+          <li>Incorporar más recursos didácticos y técnicas avanzadas de gamificación.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Expansión de características enfocadas en la creación de videojuegos didácticos personalizados.</li>
+          <li>Desarrollo de características avanzadas para videojuegos educativos personalizados.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Expansión de colaboración con desarrolladores y escuelas para producir contenido educativo innovador.</li>
+          <li>Colaboración con desarrolladores y escuelas para contenido educativo innovador.</li>
         </ul>
       </td>
     </tr>
@@ -250,22 +252,22 @@
       <td>Amenazas</td>
       <td>
         <ul>
-          <li>Presencia de competidores establecidos en el sector educativo.</li>
+          <li>Competencia de plataformas consolidadas en el sector educativo.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Competidores más accesibles para desarrolladores novatos.</li>
+          <li>Competencia de herramientas accesibles para desarrolladores novatos.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Competencia con plataformas más robustas y completas.</li>
+          <li>Rivalidad con plataformas más completas y robustas.</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>Plataforma vista como de nivel básico frente a competidores.</li>
+          <li>Percepción de ser una opción básica frente a competidores más avanzados.</li>
         </ul>
       </td>
     </tr>
@@ -277,24 +279,24 @@
 #### Estrategias:
 
 - **Diferenciación de Producto:**  
-  EdGames destacará al enfocarse en ofrecer una plataforma especializada para desarrolladores de videojuegos didácticos. Las herramientas permitirán a los desarrolladores no solo crear juegos, sino también monitorear el impacto de estos en los usuarios finales (estudiantes), a través de análisis detallados.
+  EdGames se diferenciará al centrarse en herramientas avanzadas para el desarrollo y monitoreo de videojuegos educativos, ofreciendo análisis detallados del impacto en el aprendizaje y soporte especializado para desarrolladores.
 
 - **Expansión Internacional:**  
-  Aprovechar la oportunidad de expansión en mercados hispanohablantes, donde la gamificación del aprendizaje tiene una creciente demanda. Adaptar el contenido y la interfaz a los desarrolladores y educadores de habla hispana, y colaborar con instituciones educativas de diferentes países.
+  Aprovechar la creciente demanda de gamificación educativa en mercados hispanohablantes, adaptando la plataforma para estos mercados y estableciendo alianzas con instituciones educativas en diferentes países.
 
 - **Precios Competitivos y Flexibles:**  
-  Ofrecer una estructura de precios accesible y adaptable a diferentes regiones y perfiles de desarrolladores. Esto incluye opciones de suscripción mensual y anual, con descuentos para instituciones educativas que utilicen la plataforma de manera masiva.
+  Ofrecer una estructura de precios adaptable con opciones de suscripción mensual y anual, además de descuentos para instituciones educativas que utilicen la plataforma extensivamente.
 
 #### Tácticas:
 
 - **Marketing de Contenido y SEO:**  
-  Crear y publicar contenido de valor en blogs, guías, y tutoriales orientados a los desarrolladores de videojuegos educativos. Además, optimizar el SEO con palabras clave relevantes como “desarrollo de juegos educativos” o “plataforma para desarrolladores de videojuegos didácticos”.
+  Crear y distribuir contenido valioso en blogs, guías y tutoriales dirigidos a desarrolladores de videojuegos educativos, optimizando el SEO con términos clave relevantes para atraer a nuestra audiencia objetivo.
 
 - **Alianzas Estratégicas:**  
-  Colaborar con instituciones educativas, universidades y comunidades de desarrolladores para fortalecer el uso de la plataforma EdGames. Participar en eventos y conferencias enfocadas en la educación y el desarrollo de videojuegos para aumentar la visibilidad de la plataforma.
-
+  Colaborar con universidades, instituciones educativas y comunidades de desarrolladores para fortalecer la adopción de EdGames. Participar en eventos educativos y conferencias para aumentar la visibilidad de la plataforma.
+  
 - **Optimización de la Experiencia del Usuario:**  
-  Recoger feedback de los desarrolladores que utilicen la plataforma y realizar mejoras continuas en la interfaz y herramientas de creación. Incorporar nuevas características para facilitar la creación de videojuegos educativos de alta calidad.
+  Recoger retroalimentación continua de los usuarios para mejorar la interfaz y las herramientas de la plataforma. Incorporar nuevas características basadas en las necesidades de los desarrolladores y educadores para facilitar la creación de videojuegos educativos de alta calidad.
 
 ---
 
