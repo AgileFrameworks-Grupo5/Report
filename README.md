@@ -194,6 +194,18 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 2.4. Ubiquitous Language
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+El mapa To-Be crea una representación visual que muestra exactamente cómo debería funcionar el proceso, qué decisiones se deben tomar y qué resultados se pueden lograr.
+
+**_Segmento Objetivo 1: Lucía Martinez - Abogada_**
+<img src="assets/Copy of To-Be mapping.jpg" alt="Segmento Objetivo 1: Lucía Martinez - Abogada"/>
+
+**_Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente_**
+<img src="assets/Copy of To-Be mappi2ng.jpg" alt="Segmento Objetivo 2: Jean Patrick Sanchez Rios - Cliente"/>
+
+
+Link en miro:
+https://miro.com/app/board/uXjVKgcrPwU=/?share_link_id=8518839670
+
 ## 3.2. User Stories
 # Epic Stories
 # User Stories
